@@ -4,6 +4,7 @@
 - Total problems documented: 6 (3 given + 3 self-discovered)
 - Platform explored: irctc.co.in and linked IRCTC / Indian Railways enquiry pages, live as of 07 May 2026
 - Devices used: Desktop Chrome on Windows
+ - Repository: https://github.com/keerthana9944/irctc-sprint
 
 ---
 
